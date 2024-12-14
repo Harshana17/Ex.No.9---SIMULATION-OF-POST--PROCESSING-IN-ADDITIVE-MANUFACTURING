@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 02.12.2023
+### DATE:14/12/2024
 
 ## AIM: 
  To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,19 +34,24 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/d9b3478c-e991-437b-af74-eaba99876d8f)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/224d88d0-ceb6-4001-b200-1900808aa22e)
+![WhatsApp Image 2024-12-14 at 09 09 33_44e365b0](https://github.com/user-attachments/assets/c53eb88f-0de7-47e6-be37-5f57005a3f9f)
+![Screenshot (43)](https://github.com/user-attachments/assets/33ac0097-14a4-4013-8686-af137ff32953)
+
 
 ## UV Curing of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/16946a37-3062-4b0e-97f7-a8f72a1431f6)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/55084f58-683f-4a2b-b7b1-c9d65dcee4c4)
+![WhatsApp Image 2024-12-14 at 09 09 33_a6d79cda](https://github.com/user-attachments/assets/a7303570-5d09-4f7f-9f55-bb551a6ca1da)
+![Screenshot (44)](https://github.com/user-attachments/assets/16b592d2-5f3d-4939-ba7b-90fb1e55b530)
+
+
 
 ## Heat Treatment of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
+![WhatsApp Image 2024-12-14 at 09 09 33_a6d79cda](https://github.com/user-attachments/assets/e36e9b15-06c7-41a6-a9a7-b78c775c36e7)
+![Screenshot (46)](https://github.com/user-attachments/assets/a0f6d891-0a82-4502-be02-186ecf726200)
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+
+
+### Name:Harshana M V
+### Register Number: 24002128
 
 ## Result: 
  Thus the simulation on the Postprocessing in additive manufacturing is completed.
